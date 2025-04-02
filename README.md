@@ -3,7 +3,7 @@ Clustering the MNIST dataset using K-Means for grouping similar handwritten digi
 Clustering the Income dataset using K-Means.
 
 How It Works
-##**Initialization:**
+##**Initialization:**##
 Decide the number of clusters, k. For example, if you're segmenting customers, you might choose 3 clusters based on spending habits.
 Randomly select k points as initial cluster centroids.
 ##**Assignment:**
